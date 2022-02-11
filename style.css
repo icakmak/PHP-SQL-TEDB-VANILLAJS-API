@@ -1,0 +1,68 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td,th{
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+}
+thead{
+    font-weight: bold;
+
+}
+.container{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+.row{
+    display: inline-block;
+    text-align: center;
+}
+table{
+
+    border-collapse: collapse;
+}
+.button {
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-weight:bold;
+}
+
+.button1 {
+    background-color: #38b000;
+    color:#f8f9fa;
+}
+.button2 {
+    background-color: #ffc300;
+    color:#0b090a;
+}
+.button3 {
+    background-color: #ff0000;
+    color:#f8f9fa;
+}
+.w20{
+    width: 20%;
+}
+
+input[type=text],input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+label{
+    font-weight: bold;
+}
+.center{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
